@@ -1,5 +1,45 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 
+}
+h1{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+}
+.name-class{
+    color: coral;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.half-width{
+    width: 50%;
+    margin: 5%;
+    padding: 2% ;
+    
+}
+.half-width img{
+    width: 80%;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 0.5em;
+    
+    color: white;
 
 }
