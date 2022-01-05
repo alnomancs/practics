@@ -4,12 +4,12 @@ body{
 
 }
 h1{
-    font-size: 30px;
+    font-size: 40px;
 }
 h3{
     font-size: 30px;
 }
-.name-class{
+.orange-color{
     color: coral;
 }
 .flexible-container{
@@ -24,6 +24,10 @@ h3{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
 }
 .half-width{
     width: 50%;
